@@ -1,0 +1,33 @@
+_repo: The-Princess-Tarakanova-A-Dark-Chapter-of-Russian-History_53580
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Mouchanoff, Ida de
+    alias: De Mouchanoff, Ida
+    gutenberg_agent_id: '47442'
+    url: http://www.gutenberg.org/2009/agents/47442
+creator:
+  author:
+    agent_name: Danilevskii, G. P. (Grigorii Petrovich)
+    aliases:
+    - Данилевский, Г. П. (Григорий Петрович
+    - Danilevskii, Grigorii Petrovich
+    birthdate: 1829
+    deathdate: 1890
+    gutenberg_agent_id: '47441'
+    url: http://www.gutenberg.org/2009/agents/47441
+description: ''
+gutenberg_issued: '2016-11-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53580'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PG'
+- !lcsh 'Tarakanova, Elizaveta, 1745-1775 -- Fiction'
+- GITenberg
+title: 'The Princess Tarakanova: A Dark Chapter of Russian History'
+url: http://www.gutenberg.org/ebooks/53580
